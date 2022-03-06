@@ -1,567 +1,364 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-	<!-- head start --><title>Frag Pro Shooter Hack 2021 - Online Cheat For Unlimited Resources</title>
-<meta name="robots" content="noindex, nofollow">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
-<link rel="canonical" href="https://smrturl.co/3b636b6" />
-
-<!-- Facebook OpenGraph Tags -->
-<meta property="og:url" content="www.Frag-shooter generateur" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Frag Pro Shooter Hack 2021 - Online Cheat For Unlimited Resources" />
-<meta property="og:description" content="Frag Pro Shooter Hack - Online cheat for generating unlimited gold and diamonds" />
-<meta property="og:image" content="https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-background.jpg" />
-<!-- Twitter OpenGraph Tags -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://smrturl.co/3b636b6" />
-<meta name="twitter:title" content="Frag Pro Shooter Hack 2021 - Online Cheat For Unlimited Resources" />
-<meta name="twitter:description" content="Frag Pro Shooter Hack - Online cheat for generating unlimited gold and diamonds" />
-<meta name="twitter:image" content="https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-background.jpg" />
-<!-- HTML Tags -->
-<meta name="description" content="Frag Pro Shooter Hack - Online cheat for generating unlimited gold and diamonds">
-<!-- Page Starts -->
-<link rel="shortcut icon" type="image/png" href="https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-background.jpg">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/rangeslider.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/sweet-alert.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/bootstrap-switch.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/magnific-popup.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cheatz.xyz/assets/nfs2/css/style.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="https://cheatz.xyz/assets/nfs2/css/facebook-comments.css">
-<link rel="stylesheet" type="text/css" href="https://cheatz.xyz/assets/nfs2/css/comments.css">
-<link rel="stylesheet" type="text/css" href="https://cheatz.xyz/assets/nfs2/css/standard.css">
-
-<script>
-    document.oncontextmenu = new Function("return false;");
-</script>
-
-<script>
-document.onkeydown = function(e) {
-        if (e.ctrlKey && 
-            (e.keyCode === 85 )) {
-            return false;
-        }
-};
-</script>
-
-<!--<script type="text/javascript" id="ogjs" src="https://cheatz.xyz/assets/og.php?tool=cl&toolarg=s&id=0115a3304019d18dd491decc478089ce"></script> -->
-
-<script type="text/javascript" id="ogjs" src="https://downloadlocked.com/cl/js/08wj6"></script>
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146072015-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-146072015-1');
-</script>
-
-
-<script src="https://cheatz.xyz/assets/nfs2/scripts/platform.js" async defer></script>
-
- <script type="text/javascript" src="https://cheatz.xyz/assets/nfs2/scrips/standard.js"></script>
- 
-	
-		<script>(function(d, s, id) {
-    		var js, fjs = d.getElementsByTagName(s)[0];
-    		if (d.getElementById(id)) return;
-    		js = d.createElement(s); js.id = id;
-    		js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=228853223903552";
-    		fjs.parentNode.insertBefore(js, fjs);
-    	}(document, 'script', 'facebook-jssdk'));</script> 
-
-    <style>
-
-   .media-object{
-     width:48px;
-     height:48px;
-     margin-left:8px;
-     margin-bottom:10px;
-   }
-
-   .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
-     width: 100% !important;
-   }
- </style>
-
-<style>
-body {
-	background-image: url('https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-background.jpg');
-}
-
-#gen_section .section-content .generator-section .gen-select-res1{
-background-image: url("https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-gold.png"); 
-}
-#gen_section .section-content .generator-section .gen-select-res2{
-background-image: url('https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-resource2.png');
-}
-
-
-</style>
-<style>
-
-</style>
-
-<!-- head end -->
+    <title>FRAG Pro Shooter Triche et Astuce - Comment Obtenir Diamants et Or Illimitee</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Aujourd hui, nous avons de la FRAG Pro Shooter Triche et Astuce a votre service. C est vraiment un FRAG Pro Shooter Astuce, ce qui pourrait generer un nombre Illimite de Diamants et Or a votre compte de jeu. Par avoir Illimite Diamants et Or, vous allez dominer le FRAG Pro Shooter de jeu et de prendre votre jeu a un autre niveau et d amaliorer vos chances de gagner. N attendez plus! Essayez notre nouveau FRAG Pro Shooter Triche." />    
+    <meta name="keywords" content="FRAG Pro Shooter triche, FRAG Pro Shooter astuce, FRAG Pro Shooter pirater, FRAG Pro Shooter jeu triche, FRAG Pro Shooter truc, FRAG Pro Shooter triche et astuce, FRAG Pro Shooter triche android, FRAG Pro Shooter tricher, FRAG Pro Shooter outil de triche, FRAG Pro Shooter gratuit Diamants et Or, FRAG Pro Shooter illimite Diamants et Or, FRAG Pro Shooter astuce android, FRAG Pro Shooter tricher jeu, FRAG Pro Shooter telecharger triche, FRAG Pro Shooter code de triche, FRAG Pro Shooter triche france, Comment tricher FRAG Pro Shooter, FRAG Pro Shooter hack, FRAG Pro Shooter hack online, FRAG Pro Shooter hack apk, FRAG Pro Shooter mod online, how to hack FRAG Pro Shooter without verification, how to hack FRAG Pro Shooter no survey, FRAG Pro Shooter cheats codes, FRAG Pro Shooter cheats, FRAG Pro Shooter Mod apk, FRAG Pro Shooter hack Diamants et Or, FRAG Pro Shooter unlimited Diamants et Or, FRAG Pro Shooter hack android, FRAG Pro Shooter cheat Diamants et Or, FRAG Pro Shooter tricks, FRAG Pro Shooter cheat unlimited Diamants et Or, FRAG Pro Shooter free Diamants et Or, FRAG Pro Shooter tips, FRAG Pro Shooter apk mod, FRAG Pro Shooter android hack, FRAG Pro Shooter apk cheats, mod FRAG Pro Shooter, hack FRAG Pro Shooter, cheats FRAG Pro Shooter, FRAG Pro Shooter hacken, FRAG Pro Shooter beschummeln, FRAG Pro Shooter betrugen, FRAG Pro Shooter betrugen Diamants et Or, FRAG Pro Shooter unbegrenzt Diamants et Or, FRAG Pro Shooter Diamants et Or frei, FRAG Pro Shooter hacken Diamants et Or, FRAG Pro Shooter Diamants et Or gratuito, FRAG Pro Shooter mod Diamants et Or, FRAG Pro Shooter trucchi, FRAG Pro Shooter truffare, FRAG Pro Shooter enganar, FRAG Pro Shooter amaxa pros misthosi, FRAG Pro Shooter chakaro, FRAG Pro Shooter apati, FRAG Pro Shooter dorean Diamants et Or, FRAG Pro Shooter hakata, FRAG Pro Shooter huijata, FRAG Pro Shooter vapaa Diamants et Or, FRAG Pro Shooter gratis Diamants et Or, FRAG Pro Shooter hacka, FRAG Pro Shooter jukse, FRAG Pro Shooter hakke, FRAG Pro Shooter hakiranje, FRAG Pro Shooter varati, FRAG Pro Shooter podvadet, FRAG Pro Shooter kramp, FRAG Pro Shooter plonk listkov, FRAG Pro Shooter hile, FRAG Pro Shooter ateşe atacaklar, FRAG Pro Shooter osidit, FRAG Pro Shooter csal, FRAG Pro Shooter csapkod, FRAG Pro Shooter curang, FRAG Pro Shooter snyde, FRAG Pro Shooter klove, FRAG Pro Shooter האק, FRAG Pro Shooter 備忘, FRAG Pro Shooter 哈克, FRAG Pro Shooter entrar, FRAG Pro Shooter cortar">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="icon" type="image/ico" href="img/favicon.ico" />
+	<!-- Open Graph Social Meta Tags-->
+	<meta property="og:title" content="FRAG Pro Shooter Triche et Astuce - Comment Obtenir Diamants et Or Illimite" /> <!-- Title which is displayed when your site is shared on social networks -->
+	<meta property="og:description" content="FRAG Pro Shooter Triche est ici pour vous donner illimite Diamants et Or gratuitement. Ouais, vous m avez bien entendu, c est une libre Diamants et Or Astuce pour FRAG Pro Shooter tout peut etre utilise a la fois Android et iOS appareils, quelle que soit votre région. Je l ai teste moi-meme et je voulais le partager avec le reste d entre vous les gars. N hesitez pas a partager avec vos amis, en fait je l apprecierais si vous n avez que depuis qu il m aide, qu est-ce que ça vous aide, vous et eux." /> <!-- Website description which is displayed when your site is shared on social networks -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.trichetastuce.com/" /> <!-- Your Website URL -->
+	<meta property="og:image" content="http://www.mywebsiteurl.com/social-share-image.jpg" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+	<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/brands.js" integrity="sha384-G/XjSSGjG98ANkPn82CYar6ZFqo7iCeZwVZIbNWhAmvCF2l+9b5S21K4udM7TGNu" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />  
+    <link href="css/animate.css" rel="stylesheet" />
+    <link href="css/slick.css" rel="stylesheet" />
+    <link href="css/magnific-popup.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />	
 </head>
-<body oncopy = 'return false' oncut = 'return false'>
-	<!-- content start -->
-<noscript>
-    <div class="alert alert-warning alert-dismissable">
-      <strong>Warning!</strong> It seems you have JavaScript disabled, to ensure a smooth experience please turn this feature on.
-  </div>
-</noscript>
-
-<div id="loading_modal" class="mfp-hide white-popup-block"  style="background-color:#fff">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="loading_area">
-                <div class="loader"></div>
-                <br class="clearfix"/>
-                <p>Connecting to <strong id="m-accname">ACCNAME</strong> using <strong id="m-device">EUW</strong> simulator</p>
-                <div class="progress">
-                    <div class="progress-bar progress-bar-success progress-bar-striped active g-progressbar connect_progressbar" role="progressbar" style="width: 0%"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div id="gen_modal" class="mfp-hide white-popup-block final-section text-left">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="generator_finished_area">
-                <div class="section-heading">
-                    <br/>
-                    <h2>Human Verification</h2>
-                </div>
-                
-                    <p style="color:white;"> Before our system can add the resources into your account, you will need to pass this human verification step.</p>
-                    <p style="color:white;">In order to bypass this step you will need to get a verification code by completing the short and simple instructions on the next page.</p>
-                    <p style="color:white;">This will allow our system to know that you are human.</p>
-                    <br/><br/>
-
-
-                    <center>
-
-<button class="btn btn-danger btn-large dl_button" onclick="og_load();">Verify Now</button>
-                     
-                 </center>
-                 <br/><br/>
-                 <ul>
-                    <p style="color:white;"><b>STEPS TO VERIFY</b></p>
-                    <p style="color:white;"><span class="badge">1 </span> Click "VERIFY NOW!".</p>
-                    <p style="color:white;"><span class="badge">2 </span> Choose an offer and complete it.</p>
-                    <p style="color:white;"><span class="badge">3 </span> Your resources will be added to your account within seconds.</p>
-                </ul>
-
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-
-
-<header>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12" style="margin-top:5%">
-                <img style="width:300px; height:auto" src="https://cheatz.xyz/projects/frag-pro-shooter/images/frag-pro-shooter-logo.png" class="img-responsive top-logo" alt="Frag Pro Shooter Hack 2021 - Online Cheat For Unlimited Resources">
-            </div>
-        </div>
-        <br class="clearfix"/>
-    </div>
-</header>
-
-<section class="connect_section">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-offset-1 col-md-10">
-                <div class="inside-section">
-                    <div class="section-heading">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h2>Connect To Your Account</h2>
-                                <p>Enter Your Frag Pro Shooter Username OR Google Play/Facebook/App Store E-Mail</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="account_connect_area">
-                            <div class="connected_msg">
-                                <div class="overlay"></div>
-                                <div class="connect_message">
-                                    <p>Account Conned</p>
-                                </div>
-                            </div>
-                            <div class="inside_area">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="form-group">
-                                            <label style="color:white;" for="usernameInput"><i class="fa fa-user"></i> Username/Email</label>
-                                            <input type="email" class="form-control" id="usernameInput" placeholder="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="form-group">
-                                            <label style="color:white" for="deviceInput"><i class="fa fa-desktop"></i> Select Platform</label>
-                                            <select id="deviceInput" class="form-control">
-                                                <option value="Android">Android</option>
-                                                <option value="iOS">iOS</option>
-                                                <option value="PS4">PS4</option>
-                                                 <option value="XBOX ONE">XBOX ONE</option>
-                                                 <option value="PC">PC</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <label  style="color:white" for="asesInput"><i class="fa fa-random"></i> Enable encryption</label>
-                                        <div class="form-group">
-                                            <input type="checkbox" id="aesInput">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="connect-btn-area">
-                                            <button class="connect-button">Connect</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="gen_section" class="gen-section inactive">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-offset-1 col-md-10">
-                <div class="inside-section">
-                    <div class="section-heading">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h2>Frag Pro Shooter Generator 2021</h2>
-                                <p>Select how much Gold and Diamonds you want to generate to your account and click 'Generate'.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="generator-section">
-                            <div class="row">
-                                <div class="col-md-12">
-
-                                </div>
-                            </div>
-                            <div class="row">
-                               <div class="col-md-8" style="float: none; margin: auto; text-align: center;">
-                                <div class="form-group">
-                                    <label style="color:white;" for="gems_select">Gold Amount</label>
-                                    <select style="padding-left:30px" id="gems_select" class="form-control gen-select gen-select-res1">
-                                        <option value="100_000">5,000</option>
-                                        <option value="200_000">10,000</option>
-                                        <option value="400_000">30,000</option>
-                                        <option value="500_000">50,000</option>
-                                        <option value="800_000">100,000</option>
-                                        <option value="900_000">500,000</option>
-                                        <option value="900_000">999,999</option>
-                                    </select>
-                                </div>
-                            </div>
-
-
-
-                            <div class="col-md-8" style="float: none; margin: auto; text-align: center;">
-                                <div class="form-group">
-                                    <label style="color:white;" for="gems_select">Diamonds Amount</label>
-                                    <select style="padding-left:30px" id="gems_select" class="form-control gen-select gen-select-res2">
-                                        <option value="100_000">5,000</option>
-                                        <option value="200_000">10,000</option>
-                                        <option value="400_000">30,000</option>
-                                        <option value="500_000">50,000</option>
-                                        <option value="800_000">100,000</option>
-                                        <option value="900_000">500,000</option>
-                                        <option value="900_000">999,999</option>
-                                    </select>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-
-                        <br class="clearfix"/>
-                        <div class="row">
-                            <div class="col-md-8" style="float:none; margin:auto;text-align:center">
-                                <button class="gen-button"><i class="fa fa-gear"></i>  Generate</button>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Generator -->
-                    <div class="gen-console-area">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="loading-spinner"></div>
-                                <h3 class="gen-loading-msg">Processing your request</h3>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <!-- Developer Console -->
-                                <div class="gen-dev-console">
-                                    <ul class="dev-console-text"></ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</section>
-
-
-
-<section>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-offset-1 col-md-10">
-                <div class="inside-section">
-                    <div class="section-heading">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h2>Live comments of our users</h2>
-                                <p>You can comment and like after you run our generator!</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="section-content" style="background-color:#f7f7f7;">
-
-                      <div class="fb-like" data-numposts="50" data-href="https://facebook.com/gamegenerators" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-
-
-
-                      <hr class="mt10 mb10">
-
-                      <img src="../assets/nfs2/images/shares.png" alt=""> <span class="a_1"><a id="shares"></a></span>
-                      <div class="fb_comments_container">
-                        <span id="comms" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px;font-weight: bold; background-color: #F7F7F7; position: absolute; padding-left: 10px; padding-top: 10px; z-index:999"></span>
-
-                         <div class="fb-comments" data-href="https://facebook.com/gamegenerators" style="width:100%; margin-top:-10px" data-width="100%" fb-xfbml-state="rendered"><span style="height: 225px;"></span></div>
-                    </div>
-
-
-
-
-                    <div class="media mb0 mt0"> 
-                        <div class="media-left"> 
-                           <a> <img id="user1" class="media-object" src="../assets/nfs2/images/users/user(1).jpg" alt="user1"> </a> </div> 
-
-                           <div class="media-body"> 
-                              <p class="fb_1 mb0">
-                                 <a id="name1" class="fb_2"></a><span id="commentspin1"></span></p>
-                                 <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like"> <img class="secondlike" src="../assets/nfs2/images/love.png" alt="love"> <img class="thirdlike" src="../assets/nfs2/images/wow.png" alt="wow"> <span id="random1" class="fblikecount"></span> · <span id="mins1" class="fb_4"></span><span class="fb_4">m</span></p> 
-                             </div> 
-                         </div>
-
-                         <div class="media mb0 mt0"> 
-                            <div class="media-left"> 
-                               <a> <img id="user2" class="media-object" src="../assets/nfs2/images/users/user(2).jpg" alt="user2"> </a> 
-                           </div> 
-                           <div class="media-body"> 
-                               <p class="fb_1 mb0">
-                                  <a id="name2" class="fb_2"></a><span id="commentspin2"></span></p> 
-                                  <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                     <img class="secondlike" src="../assets/nfs2/images/love.png" alt="love"> <span id="random2" class="fblikecount"></span> · <span id="mins2" class="fb_4"></span><span class="fb_4">m</span></p> 
-
-                                 </div> 
-                             </div>
-
-                             <div class="media mb0 mt0"> 
-                              <div class="media-left"> 
-                                 <a> <img id="user3" class="media-object" src="../assets/nfs2/images/users/user(3).jpg" alt="user3"> </a> 
-                             </div> 
-
-                             <div class="media-body"> 
-                                 <p class="fb_1 mb0"><a id="name3" class="fb_2"></a><span id="commentspin3"></span></p> 
-                                 <p class="fb_1"><a class="fb_3" >Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like"> 
-                                    <img class="secondlike" src="../assets/nfs2/images/wow.png" alt="wow"> <span id="random3" class="fblikecount"></span> · <span class="fb_4">1h</span></p> 
-                                </div> 
-                            </div>
-
-                            <div class="media mb0 mt0"> 
-                             <div class="media-left"> 
-                                <a> <img id="user4" class="media-object" src="../assets/nfs2/images/users/user(4).jpg" alt="user4"> </a> 
-                            </div> 
-
-                            <div class="media-body"> 
-                                <p class="fb_1 mb0"><a id="name4" class="fb_2"></a><span id="commentspin4"></span></p> 
-                                <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                   <img class="secondlike" src="../assets/nfs2/images/wow.png" alt="wow"> <img class="thirdlike" src="../assets/nfs2/images/love.png" alt="love"> <span id="random4" class="fblikecount"></span> · <span class="fb_4">1h</span></p> 
-                               </div> 
-                           </div>
-
-
-                           <div class="media mb0 mt0"> 
-                            <div class="media-left"> 
-                               <a> <img id="user5" class="media-object" src="../assets/nfs2/images/users/user(5).jpg" alt="user5"> </a> 
-                           </div> 
-
-                           <div class="media-body"> 
-                               <p class="fb_1 mb0"><a id="name5" class="fb_2"></a><span id="commentspin5"></span></p> 
-                               <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                  <span id="random5" class="fblikecount"></span> · <span class="fb_4">1h</span></p> 
-                              </div> 
-                          </div>
-
-                          <div class="media mb0 mt0"> 
-                             <div class="media-left"> 
-                                <a> <img id="user6" class="media-object" src="../assets/nfs2/images/users/user(6).jpg" alt="user6"> </a> 
-                            </div> 
-
-                            <div class="media-body"> 
-                                <p class="fb_1 mb0"><a id="name6" class="fb_2"></a><span id="commentspin6"></span></p> 
-                                <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                   <span id="random6" class="fblikecount"></span> · <span class="fb_4">1h</span></p> 
-                               </div> 
-                           </div>
-
-
-                           <div class="media mb0 mt0"> 
-                              <div class="media-left"> 
-                                 <a> <img id="user7" class="media-object" src="../assets/nfs2/images/users/user(7).jpg" alt="user7"> </a> 
-                             </div> 
-
-                             <div class="media-body"> 
-                                 <p class="fb_1 mb0"><a id="name7" class="fb_2"></a><span id="commentspin7"></span></p> 
-                                 <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                   <img class="secondlike" src="../assets/nfs2/images/haha.png" alt="haha">
-                                   <span id="random7" class="fblikecount"></span> · <span class="fb_4">2h</span></p> 
-                               </div> 
-                           </div>
-
-
-                           <div class="media mb0 mt0"> 
-                             <div class="media-left"> 
-                                <a> <img id="user8" class="media-object" src="../assets/nfs2/images/users/user(8).jpg" alt="user8"> </a> 
-                            </div> 
-
-                            <div class="media-body"> 
-                                <p class="fb_1 mb0"><a id="name8" class="fb_2"></a><span id="commentspin8"></span></p> 
-                                <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                   <span id="random8" class="fblikecount"></span> · <span class="fb_4">2h</span></p> 
-                               </div> 
-                           </div>
-
-
-                           <div class="media mb0 mt0"> 
-                            <div class="media-left"> 
-                               <a> <img id="user9" class="media-object" src="../assets/nfs2/images/users/user(9).jpg" alt="user9"> </a> 
-                           </div> 
-
-                           <div class="media-body"> 
-                               <p class="fb_1 mb0"><a id="name9" class="fb_2"></a><span id="commentspin9"></span></p> 
-                               <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                  <img class="secondlike" src="../assets/nfs2/images/love.png" alt="love"> <span id="random9" class="fblikecount"></span> · <span class="fb_4">3h</span></p> 
-                              </div> 
-                          </div>
-
-
-
-                          <div class="media mb0 mt0"> 
-                              <div class="media-left"> 
-                                <a> <img id="user10" class="media-object" src="../assets/nfs2/images/users/user(10).jpg" alt="user9"> </a> 
-                            </div> 
-
-                            <div class="media-body"> 
-                                <p class="fb_1 mb0"><a id="name10" class="fb_2"></a><span id="commentspin10"></span></p> 
-                                <p class="fb_1"><a class="fb_3">Like</a> · <a class="fb_3">Reply</a> · <img class="fblike" src="../assets/nfs2/images/like.png" alt="like">
-                                   <span id="random10" class="fblikecount"></span> · <span class="fb_4">3h</span></p> 
-                               </div> 
-                           </div>
-
-                           <img src="../assets/nfs2/images/comments.png" alt="comments"> <a><span class="a_1">View </span><span id="morecomms" class="a_1"></span><span class="a_1"> more comments</span></a>
-
-
-                       </div>
-
-
-                   </div>
-
-               </div>
-           </div>
-       </div>
-   </section>
-
-   <footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <p>© Copyright Frag Pro Shooter © All rights reserved.</p>
-            </div>
-        </div>
-    </div>
-</footer>
-
- <script>
-
-  function getRandomInt2(min, max) {
-    return Math.floor(Math.random() * (max - min)) + min;
-}
-
-var strcomments = [' This Frag Pro Shooter hack really worked for me...',' So happy that I find this Frag Pro Shooter cheat, it saved me a lot of money!',' wow I generated my unlimited Gold and Diamonds, thanks guys',' With this Frag Pro Shooter hack I forever solved my problem of not having enough Gold',' This is one of the best working Frag Pro Shooter hack online, great work guys!',' I am so happy that I found this free working Frag Pro Shooter cheat tool',' I\'ve passed all levels with this Frag Pro Shooter hack lol',' I will use this free Frag Pro Shooter cheat every day from now on',' Great Frag Pro Shooter hack, worked like a charm for me, thanks guys, I will share it!',' Wooww I can\'t belive how fast I\'ve generated Gold with this hack lol this is crazy',' Thanks guys,  this Frag Pro Shooter hack totally works for me',' Awesomee hack!! So much Gold, can’t believe! I won’t leave my iPhone now :D',' Great work guys, i got my Gold and Diamonds in 10 mins :)',' I just got unlimited Gold, try this hack people, tested working 100%',' fuck yeaa, working like a charm! 990k Gold and 100k Diamonds generated today',' Wooow so many Gold. I will share this Frag Pro Shooter generator with my friends now.',' This cheat works like a charm, I\'ve got my 999999 Gold & Diamonds after the second try lol',' Thanks, this Frag Pro Shooter cheat totally works for me!!',' really satisfied with my 999k Gold, great job!',' can\'t believe it\'s working... thanks guys you re awesome',' awesome hack, it really works! even my little brother generated 100k Gold',' Great job guys, another working hack from you guys, I had another success with Frag Pro Shooter hack lol',' why i didn\'t found this Frag Pro Shooter hack sooner, it would saved me a lot of money',' working on my ios, can\'t wait to test this Frag Pro Shooter cheat on my android device too',' very easy to generate Gold and Diamonds for my Frag Pro Shooter game',' If you hate paying for upgrades, use this online Frag Pro Shooter hack, everything is FREEE!',' I will use the Frag Pro Shooter hack from now on, i regret spending my money on upgrades!',' With this hack You can get Gold and Diamonds in 15 mins or so.',' So awesome. I love this. Unlimited free Gold and Diamonds it is unbelievable',' Worked for me! Anyone else tried this Frag Pro Shooter hack already?',' This Frag Pro Shooter cheat is incredible, never thought it would work.',' I generated 100000 Gold, can\'t wait to start playing now',' ios player here, Frag Pro Shooter hack works flawless.',' Another success with this cheat! How much Gold u made so far?',' Cant imagine how this working Frag Pro Shooter hack is really free!!',' Cool Frag Pro Shooter cheat! Thanks man I appreciate this.',' I love this Frag Pro Shooter cheat, worked!',' Never imagined this Frag Pro Shooter hack would work but damn its so simple',' saw this on forums like the best online Frag Pro Shooter cheat, must say its pretty impressive',' Hack really worked! Do you think this will be patched any time soon?',' pretty sure this Frag Pro Shooter hack is saving me a lot of money',' It only took 5 mins for Gold and Diamonds to come!',' a friend told me about this Frag Pro Shooter hack, i am buying him a beer lol',' thanks to whoever spams this website out there lol... i found it easily and it worked!',' so far I am cool with this Frag Pro Shooter hack',' I got 99k resources today... how much Gold can you even have, is there limit?',' Hack for Frag Pro Shooter worked for me! You should give it a try',' Working Frag Pro Shooter cheat! dont regret being here',' This Frag Pro Shooter hacking shit is real haha',' omg stop asking how to get Frag Pro Shooter Gold just get it from generator',' guys this is so easy, it takes less than a minute',' this Frag Pro Shooter hack is incredibly easy haha',' today is my lucky day, Frag Pro Shooter hack finally worked',' this is the best Frag Pro Shooter Gold website because we all have more than a chance',' i think everyone here got 999.999 Gold',' Frag Pro Shooter Gold for free wow it feel like Christmas',' Do Gold expire? I just got 999k today',' I got big pack of free Gold for my girlfriend making her happy',' funny how this Frag Pro Shooter cheat works always for me',' hi again im here for more Gold lol',' I had like 50k Gold already on my acc',' nice page for Frag Pro Shooter Gold',' I was stuck in survey had to do again but it worked then',' thank you for giving me Gold!',' Frag Pro Shooter Gold cheat working fine',' i love this Frag Pro Shooter so much',' this makes my Frag Pro Shooter game more enjoyable i hope',' thanks to whoever pmed me about this Frag Pro Shooter cheat, it worked',' imagine all the people that spend real money on Frag Pro Shooter, I feel sorry for them lol',' any idea if this Frag Pro Shooter  cheat still works tomorrow?',' best Frag Pro Shooter Gold website',' anyone here for more Frag Pro Shooter Gold lol?',' even noobs can use this easy and free Frag Pro Shooter cheat',' can\'t wait to come from school and play my Frag Pro Shooter game now!',' does this Frag Pro Shooter giveaway go forever?',' i see no limits on how Gold you can get thats so epic',' i havent seen this Frag Pro Shooter cheat before but im impressed with the result!',' actually i had no problem with any survey ever, just try',' this Frag Pro Shooter website is used a lot sometimes you have to wait a bit',' i wish i found this working Frag Pro Shooter earlier',' i wasted so much money on Frag Pro Shooter lol - good this is free here',' i would do screenshot of my 999k Frag Pro Shooter Gold but maybe you report me then',' i feel like this cheat will be the best! Frag Pro Shooter was starting to get boring without cheat lol',' Okay I believe this works cus I just logged in and saw my Gold ROFL',' my friends on facebook spam this Frag Pro Shooter cheat like every day, they are realy happy about it',' great Frag Pro Shooter generator good i found this',' used this three times and received 999999 Gold, lol see you ingame suckers',' hi my english no good i here get Frag Pro Shooter Gold',' you can have low IQ and still be able to get 999k Gold',' im glad that i tried Frag Pro Shooter cheat because now for next year or so i am not leaving my room hhhh',' if you want a proof of Frag Pro Shooter game hack, just write to me on FB',' I thought Frag Pro Shooter is slowly dying, but this hack makes things so much more interesting',' i thought my friend wanted to fool me with this website link. but you can rly get Gold here if you dont mess up with the survey part',' i am fine with having free 999999 Gold, how about you',' from all websites ive been on this is the first and probably the only one which rly gives you free Frag Pro Shooter Gold',' FREE and UNLIMITED Frag Pro Shooter Gold here I come',' wow 10 minutes ago i got nothing and now I am rich with 999k Gold and Diamonds lol',' fucking helll! got my requested Gold and Diamonds!',' i usually choose the first offer in the list because its normally the easiest one that work',' if you chose an offer make sure to finish it complete or you will not get your Gold guys!'];
-
-document.getElementById("commentspin1").innerHTML = strcomments[getRandomInt2(0, 10)];
-document.getElementById("commentspin2").innerHTML = strcomments[getRandomInt2(11, 20)];
-document.getElementById("commentspin3").innerHTML = strcomments[getRandomInt2(21, 30)];
-document.getElementById("commentspin4").innerHTML = strcomments[getRandomInt2(31, 40)];
-document.getElementById("commentspin5").innerHTML = strcomments[getRandomInt2(41, 50)];
-document.getElementById("commentspin6").innerHTML = strcomments[getRandomInt2(51, 60)];
-document.getElementById("commentspin7").innerHTML = strcomments[getRandomInt2(61, 70)];
-document.getElementById("commentspin8").innerHTML = strcomments[getRandomInt2(71, 80)];
-document.getElementById("commentspin9").innerHTML = strcomments[getRandomInt2(81, 90)];
-document.getElementById("commentspin10").innerHTML = strcomments[getRandomInt2(91, 100)];
-
-</script>
-
-<!-- content end -->
-
-	<!-- footer start --><script src="https://cheatz.xyz/assets/nfs2/scripts/jquery.min.js"></script>
-<script src="https://cheatz.xyz/assets/nfs2/scripts/bootstrap.min.js"></script>
-<script src="https://cheatz.xyz/assets/nfs2/scripts/sweet-alert.min.js"></script>
-<script src="https://cheatz.xyz/assets/nfs2/scripts/bootstrap-switch.min.js"></script>
-<script src="https://cheatz.xyz/assets/nfs2/scripts/jquery.magnific-popup.min.js"></script>
-<script src="https://cheatz.xyz/assets/nfs2/scripts/main.js"></script>
-<script type="text/javascript" src="https://cheatz.xyz/assets/nfs2/scripts/randomize.js"></script>
-
-<script>
-function startWidget (){
-	//do nothing if empty file or execute the code
-	{trigger.jscode}
-}
-
-var resourceOneName = 'Gold';
-var resourceTwoName = 'Diamonds';
-</script>
-
-<script>
-
-</script><!-- footer end -->
-
-</body>
+<body>	
+	<div class="floating-figure"></div>
+	<header>
+
+	</header>
+	<div class="container">
+		<div align="center"><img src="img/logo.png" height="100" align="middle"/></div>
+		<div class="status-wrapper">
+			<div class="status-inner-wrapper">
+				<div class="status-column column-first">
+					<span class="status-static">Statut:</span>
+					<span id="status" class="status-dynamic">En Ligne</span>
+				</div>
+				<div class="status-column column-second">
+					<span class="status-static">Mise A Jour:</span>
+					<span id="date" class="status-dynamic"></span>
+				</div>
+				<div class="status-column column-last">
+					<span class="status-static">Utilisateurs En Ligne:</span>
+					<span id="online-count" class="status-dynamic"></span>
+				</div>
+				<div class="icon-column">
+					<img src="img/status-icon.png" class="img-fluid status-icon" alt="Status Icon"/>
+				</div>
+			</div>
+			<div class="status-shadow-wrapper"></div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="content-grid-wrapper">
+			<div class="content-grid-inner-wrapper">
+				<div class="row small-margin">
+					<div class="col-lg-7 small-padding">
+						<div class="grid-column generator-grid-column">
+							<div class="grid-column-decor-generator"></div>
+							<div class="grid-column-decor-generator-b"></div>							
+							<div class="generator-grid-inner">
+								<div class="grid-column-title">
+									<h4>FRAG Pro Shooter Triche</h4>
+								</div>
+								<div class="grid-column-content">
+									<div class="generator-wrapper">
+										<div class="fut-player-info-wrapper">											
+											<div class="fut-player-info-row fut-player-info-row-top">
+												<label class="styled-label">1. Votre nom d utilisateur et Plate-forme</label>
+												<div class="input-wrapper username-input-wrapper">
+													<img src="img/player-icon.png" alt="Player Icon" class="img-fluid input-icon" />
+													<input type="text" id="fut-username" class="styled-input" placeholder="FRAG Pro Shooter Nom d utilisateur..." />
+												</div>
+											</div>
+											<div class="fut-player-info-row fut-player-info-row-bottom">
+												<div class="row double-margin">
+													<div class="col-4 double-padding">
+														<div class="platform-item platform-item-1">
+															<img src="img/origin_b.svg" class="img-fluid platform-svg" />
+															<div class="p-active-bg">
+																<img src="img/origin.svg" class="img-fluid platform-svg platform-svg-w" />
+															</div>
+														</div>
+													</div>
+													<div class="col-4 double-padding">
+														<div class="platform-item platform-item-2">
+															<img src="img/ps4_b.svg" class="img-fluid platform-svg" />
+															<div class="p-active-bg">
+																<img src="img/ps4.svg" class="img-fluid platform-svg platform-svg-w" />
+															</div>
+														</div>
+													</div>
+													<div class="col-4 double-padding">
+														<div class="platform-item platform-item-3">
+															<img src="img/xboxone_b.svg" class="img-fluid platform-svg" />
+															<div class="p-active-bg">
+																<img src="img/xboxone.svg" class="img-fluid platform-svg-w" />
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="button-wrapper">
+											<div id="b-1" class="styled-button n-a"><span>Continuer</span></div>
+										</div>
+									</div>
+									<div class="intro-loader-wrapper">
+										<div class="loader">Chargement...</div>	
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="grid-column how-to-use-column">
+							<div class="grid-column-decor-generator-gray-3"></div>
+							<div class="generator-grid-inner">
+								<div class="grid-column-title">
+									<h4>Comment Utiliser</h4>
+								</div>
+								<div class="grid-column-content">
+									<div class="how-to-use-wrapper">
+										<div id="progressBarHowTo" class="how-to-loadbar">
+											<div></div>
+											<span class="how-to-progress-dot how-to-progress-dot-1"></span>
+											<span class="how-to-progress-dot how-to-progress-dot-2"></span>
+											<span class="how-to-progress-dot how-to-progress-dot-3"></span>
+										</div>			
+										<div class="how-to-use">
+											<div class="how-to-use-item">
+												<span class="how-to-use-step-title">
+													<span>1ere Etape:</span> Connexion a votre compte
+												</span>
+												<p>
+													Entrez votre FRAG Pro Shooter nom d utilisateur et selectionnez la plate-forme ou votre compte est actif. Continuez en cliquant sur le "<span class="strong">Continuer</span>" bouton.
+												</p>
+											</div>
+											<div class="how-to-use-item">
+												<span class="how-to-use-step-title">
+													<span>2ere Etape:</span> Generer Diamants et Or
+												</span>
+												<p>
+													Selectionnez le montant de Diamants et Or que vous souhaitez generer. Terminer l etape en cliquant sur "<span class="strong">Generer Maintenant</span>" bouton.
+												</p>
+											</div>
+											<div class="how-to-use-item">
+												<span class="how-to-use-step-title">
+													<span>3ere Etape:</span> Verificiation et de Livraison
+												</span>
+												<p>
+													Attendez jusqu a ce que le generateur de traitement est termine. Completer la Verification et profiter de votre generes Diamants et Or.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 small-padding">
+						<div class="grid-column video-grid-column">
+							<div class="grid-column-decor-generator-gray-r"></div>
+							<div class="generator-grid-inner">
+								<div class="grid-column-title">
+									<h4>Video Tutoriel</h4>
+								</div>
+								<div class="grid-column-content">
+									<div class="embed-responsive embed-responsive-4by3">
+										<iframe src="https://www.youtube.com/embed/hFMKW-4ZfMM" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+									</div>									
+								</div>
+							</div>
+						</div>
+						<div class="grid-column recent-activity-column">
+							<div class="grid-column-decor-generator-gray-2"></div>
+							<div class="generator-grid-inner">
+								<div class="grid-column-title">
+									<h4>Activite Recente</h4>
+								</div>
+								<div class="grid-column-content">
+									<div id="recent-activity" class="recent-activity"></div>									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<div id="s-w"></div>
+	<footer>
+		<div class="container">
+			<div class="footer-content-wrapper">
+				<div class="footer-content-inner-wrapper">
+					<div class="footer-nav-wrapper">
+						<a class="popup-contact f-n-l" href="#contact-us">Contact Us</a>
+						<a class="popup-tos f-n-l" href="#terms-of-service">Terms of Service</a>
+						<a class="popup-pp f-n-l" href="#privacy-policy">Privacy Policy</a>
+					</div>
+					<div class="copyright-notice">
+						&copy; Le droit d auteur 2019, tous droits reserves.<span>Toutes les marques de commerce, marques de service, noms commerciaux, marques, noms de produits et logos apparaissant sur le site sont la propriete de leurs proprietaires respectifs.</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div id="contact-us" class="contact-popup-wrapper footer-popup-wrapper mfp-hide">
+		<div class="footer-popup-title-wrapper">
+			<h1>Send us a message</h1>
+		</div>	
+		<div class="contact-form-wrapper footer-popup-inner-wrapper">
+			<form id="contactForm" data-toggle="validator">
+				<div class="row">
+					<div class="form-group col-sm-6">
+						<label for="name">Nom</label>
+						<input type="text" class="form-control input-style" id="name" placeholder="Entrez le nom" required>
+						<div class="help-block with-errors"></div>
+					</div>
+					<div class="form-group col-sm-6">
+						<label for="email">Email</label>
+						<input type="email" class="form-control input-style" id="email" placeholder="Entrez le email" required>
+						<div class="help-block with-errors"></div>
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="message">Message</label>
+					<textarea id="message" class="form-control input-style" rows="2" placeholder="Entrez votre message" required></textarea>
+					<div class="help-block with-errors"></div>
+				</div>
+				<button type="submit" id="form-submit" class="styled-button"><span>Soumettre</span></button>
+				<div id="msgSubmit" class="h3 text-center hidden"></div>
+				<div class="clearfix"></div>
+			</form>
+		</div>
+	</div>
+	<div id="terms-of-service" class="tos-popup-wrapper footer-popup-wrapper mfp-hide">
+		<div class="footer-popup-title-wrapper">
+			<h1>Conditions d utilisation</h1>
+		</div>
+		<div class="footer-popup-inner-wrapper">
+				<p>Ces conditions de service ("Conditions", "accord") sont un accord entre l exploitant d MyWebsite ("exploitant de site Web", "nous", "nous" ou "notre") et vous ("User", "vous" ou "votre"). Le present accord definit les termes et conditions de votre utilisation de l https://tricheetastuce.com site web et aucun de ses produits ou services (collectivement, "Site Web" ou "Services").</p>
+
+				<h2>Condition d age</h2>
+
+				<p>Vous devez etre age d au moins 18 ans pour utiliser ce site. En utilisant ce site et en acceptant le present accord, vous garantissez et declarez que vous etes age d au moins 18 ans.</p>
+
+				<h2>Les sauvegardes</h2>
+
+				<p>Nous ne sommes pas responsables de leur contenu sur le site Web. Nous ne sommes en aucun cas etre tenu responsable d une perte de tout contenu. Il est de votre seule responsabilite de conserver une sauvegarde de votre contenu. Malgre ce qui precede, dans certains cas et dans certaines circonstances, avec absolument aucune obligation, nous pourrions etre en mesure de restaurer tout ou partie de vos donnees qui ont ete supprimees a partir d une certaine date et l heure ou nous avons peut-etre des donnees sauvegardees pour nos propres fins. Nous ne faisons aucune garantie que les donnees dont vous avez besoin sera disponible.</p>
+
+				<h2>Liens vers d autres sites web</h2>
+
+				<p>Bien que ce site peut etre lie a d autres sites web, nous ne sommes pas, directement ou indirectement, ce qui implique une approbation, d association, le parrainage, l approbation, ou d affiliation avec aucun de ces sites web, sauf si stipule aux presentes. Nous ne sommes pas responsables de l examen ou l evaluation, et nous ne garantissons pas les offrandes de, toute les entreprises ou les particuliers ou le contenu de leurs sites web. Nous n assumons aucune responsabilite ou responsabilite pour les actions, produits, services et contenu de tout autre tiers. Vous devez lire attentivement les mentions legales et d autres conditions d utilisation de tout site web accessible via un lien a partir de ce site Web. Votre lien a des pages hors site ou des autres sites web est a vos propres risques.</p>
+
+				<h2>Annonces</h2>
+
+				<p>Au cours de l utilisation du site Web, vous pourriez entrer en correspondance avec ou participer a des promotions d annonceurs ou sponsors montrant leurs produits ou services via le site Web. Une telle activite, et des modalites, conditions, garanties ou représentations associees a ces activites, est uniquement entre vous et la tierce-partie. Nous n aurons aucune responsabilite, obligation ou responsabilite pour toute cette correspondance, achat ou promotion entre vous et ces tiers.</p>
+
+				<h2>Utilisations interdites</h2>
+
+				<p>En plus d autres conditions que celles enoncees dans l Accord, il vous est interdit d utiliser le site web ou son contenu : (a) a des fins illicites ; (b) de solliciter d autres personnes a effectuer ou participer a des actes illegaux ; (c) a transgresser les organismes internationaux, federaux, provinciaux ou les reglements de l etat, des regles, des lois, ou des ordonnances locales ; (d) pour porter atteinte a ou violer nos droits de propriete intellectuelle ou les droits de propriete intellectuelle de tiers ; (e) a harceler, maltraiter, insulter, blesser, diffamer, calomnier, denigrer, d intimider ou d entraîner une discrimination fondee sur le sexe, l orientation sexuelle, la religion, l appartenance ethnique, la race, l age, l origine nationale, ou d un handicap ; (f) de presenter des informations fausses ou trompeuses ; (g) de telecharger ou de transmettre des virus ou tout autre type de code malveillant qui sera ou pourra etre Utilisee d une façon qui aura une incidence sur la fonctionnalite ou l exploitation du service ou de tout autre site web, d autres sites web, ou de l Internet ; h) a collecter ou suivre les renseignements personnels d autrui ; (i) de spam, Phish, pharm, pretexte, spider, ramper, ou gratter ; j) pour tout objet obscene ou immoral ; ou (k) d interferer avec ou de contourner les fonctions de securite du Service ou tout autre site web, d autres sites web, ou de l Internet. Nous nous reservons le droit de resilier votre utilisation du service ou de tout site web connexe pour violation de l une des utilisations interdites.</p>
+
+				<h2>Limitation de responsabilite</h2>
+
+				<p>Dans toute la mesure permise par la loi applicable, en aucun cas l exploitant du site, de ses societes affiliees, dirigeants, administrateurs, employes, agents, fournisseurs ou bailleurs sont responsables envers quiconque de (a) : tout dommage indirect, incident, special, punitif, couvrir ou consecutifs (y compris, sans limitation, les dommages pour perte de profits, de revenus, de ventes, d acquisition, l utilisation ou le contenu, l impact sur les affaires, l interruption des affaires, perte d economies anticipees, perte d occasion d affaires) cependant cause, en vertu de toute theorie de responsabilite, y compris, sans limitation, contractuelle, delictuelle, la garantie, la violation d une obligation reglementaire, negligence ou autre, meme si l operateur du site Web a ete avisee de la possibilite de tels dommages ou auraient pu prevoir de tels dommages. Dans la mesure maximale permise par la loi applicable, la responsabilité globale de l exploitant du site et de ses societes affiliees, dirigeants, employes, agents, fournisseurs et concédants, relatifs aux services sera limitee a un montant plus eleve de un dollar ou tous les montants effectivement payes en especes par vous a l operateur de site Web pour l etat de la periode d un mois avant le premier evenement ou incident ayant donne lieu a cette responsabilite. Les limitations et exclusions s appliquent egalement si ce recours n est pas tout a vous indemniser des pertes ou n atteint pas son but.</p>
+
+				<h2>L indemnisation</h2>
+
+				<p>Vous acceptez d indemniser et de l exploitant du site Web et de ses societes affiliees, administrateurs, dirigeants, employes et mandataires de toute responsabilite concernant les responsabilites, pertes, dommages ou frais, y compris les honoraires des mandataires raisonnables, engages en rapport avec ou decoulant de toutes les allegations, revendications, actions, litiges ou demandes deposees contre l un d'entre eux a la suite de ou relatives au contenu, de votre utilisation du site Web ou des services ou de toute mauvaise conduite volontaire de votre part.</p>
+
+				<h2>Divisibilite</h2>
+
+				<p>tous droits et restrictions contenues dans le présent accord peut etre exercee et est applicable et obligatoire que dans la mesure où elles ne violent pas les lois applicables et sont destines a etre limitee dans la mesure necessaire pour qu ils ne rendent cette entente illegale, invalide ou inapplicable. Si une disposition ou une partie de toute disposition du present Accord ne doit etre consideree comme illegale, invalide ou inapplicable par un tribunal competent, a l intention des parties, les autres dispositions ou parties de celles-ci constituent leur accord au sujet de l objet des presentes, et tous ces autres dispositions ou parties de celles-ci resteront en vigueur. </p>
+
+				<h2>Resolution des differends</h2>
+
+				<p>La formation, l interpretation et l execution du present contrat et tout litige decoulant d elle est regie par les lois de procedure et de fond de Berne, en Suisse, sans egard a ses regles de conflit ou de choix de la loi et, dans la mesure applicable, les lois de la Suisse. La competence exclusive pour les actions liees a l objet du present document est l etat et les tribunaux federaux situes a Berne, Suisse, et par les presentes, vous vous soumettez a la juridiction personnelle de tels tribunaux. Vous renoncez a tout droit a un proces devant jury dans toute procedure decoulant de ou liee a cet accord. La Convention des Nations Unies sur les contrats de vente internationale de marchandises ne s'applique pas a la presente entente.</p>
+
+				<h2>Modifications et amendements</h2>
+
+				<p>Nous nous reservons le droit de modifier la presente entente ou de ses politiques concernant le site Internet ou des services a tout moment, a compter de la publication de la version mise a jour du present contrat sur le site Web. Lorsque nous ne nous changerons la date de mise a jour au bas de cette page. L utilisation continue du Site apres de telles modifications constituera votre consentement a ces changements.</p>
+
+				<h2>L acceptation de ces conditions</h2>
+
+				<p>Vous reconnaissez que vous avez lu cet accord et acceptez tous ses termes et conditions. En utilisant le site Web ou de ses services, vous acceptez d etre lie par le present accord. Si vous n acceptez pas de respecter les termes de cet accord, vous n etes pas autorise a utiliser ou a acceder au site et a ses services.</p>
+
+				<h2>Nous contacter</h2>
+
+				<p>Si vous avez des questions concernant cette politique, veuillez nous contacter.</p>
+
+				<p>Ce document a ete mise a jour le 2019</p>
+		</div>
+	</div>
+	<div id="privacy-policy" class="pp-popup-wrapper footer-popup-wrapper mfp-hide">
+		<div class="footer-popup-title-wrapper">
+			<h1>Politique de confidentialite</h1>
+		</div>
+		<div class="footer-popup-inner-wrapper">
+				<p>Cette politique de confidentialité ("Politique") décrit comment nous collectons, protégeons et utilisons les informations personnelles identifiables ("Informations personnelles") vous ("User", "vous" ou "votre") de fournir sur le site et tout https://tricheetastuce.com de ses produits ou services (collectivement, "Site Web" ou "Services"). Il décrit également les choix qui s offrent à vous quant à notre utilisation de vos informations personnelles et comment vous pouvez accéder et mettre à jour ces informations. Cette politique ne s applique pas aux pratiques des entreprises que nous n avons pas ou ne contrôle pas, ou aux personnes que nous n'emploie pas ou ne gère pas.</p>
+
+				<h2>Collecte de renseignements personnels</h2>
+
+				<p>Nous recevons et conservons toutes les informations que vous nous fournissez volontairement lorsque vous remplissez des formulaires en ligne sur le site Web. Vous pouvez choisir de ne pas nous fournir certaines informations, mais alors vous ne pouvez pas être en mesure de profiter de certaines des fonctionnalités du site Web.</p>
+
+				<h2>Collecte des renseignements non personnels</h2>
+
+				<p>Lorsque vous visitez le site web nos serveurs enregistrent automatiquement les informations que votre navigateur envoie. Ces données peuvent inclure des informations telles que l adresse IP de votre ordinateur, le type de navigateur et sa version, le type de système d'exploitation et sa version, les préférences de langue ou la page web que vous visitiez avant de venir sur notre site Web, les pages de notre site Web que vous visitez, le temps passé sur ces pages, les informations que vous recherchez sur notre site, les temps d accès et dates, et d autres statistiques.</p>
+
+				<h2>Utilisation des informations recueillies</h2>
+
+				<p>Les renseignements que nous recueillons auprès de vous peuvent être utilisées pour personnaliser votre expérience ; améliorer notre site web ; améliorer le service à la clientèle et répondre aux demandes de renseignements et des e-mails de nos clients, d exécuter et d exploiter notre site Web et nos services. Les renseignements non personnels recueillis sont utilisés uniquement pour identifier les cas potentiels d abus et d établir des statistiques sur le trafic de site Web et l utilisation. Ces informations statistiques n est pas regroupée de façon à identifier un utilisateur particulier du système.</p>
+
+				<h2>Les enfants</h2>
+
+				<p>Nous ne recueillons pas sciemment de renseignements personnels auprès d'enfants de moins de 13 ans. Si vous avez moins de 13 ans, veuillez ne pas inclure de renseignements personnels par le biais de notre site Web ou service. Nous encourageons les parents et tuteurs à surveiller leurs enfants lorsqu ils l utilisation d Internet et d aider à faire appliquer cette politique en donnant instruction à leurs enfants à ne jamais fournir de renseignements personnels par le biais de notre site Web ou service sans leur permission. Si vous avez des raisons de croire qu'un enfant de moins de 13 ans a fourni des renseignements personnels à votre sujet sur notre site Web ou service, veuillez nous contacter.</p>
+
+				<h2>Les cookies</h2>
+
+				<p>Le site web utilise des "cookies" afin de personnaliser votre expérience en ligne. Un cookie est un fichier texte placé sur votre disque dur par un serveur de pages web. Les cookies ne peuvent pas être utilisés pour exécuter des programmes ou transmettre des virus à votre ordinateur. Les cookies vous sont adressés exclusivement et peuvent être lus uniquement par les serveurs web appartenant au domaine qui l a émis. Nous pouvons utiliser des cookies pour collecter, stocker et suivre les informations à des fins statistiques afin d exploiter notre site Web et nos services. Vous avez la possibilité d accepter ou de refuser les cookies. La plupart des navigateurs web acceptent automatiquement les cookies, mais vous pouvez généralement modifier votre navigateur pour refuser les cookies si vous le souhaitez. Si vous choisissez de refuser les cookies, vous risquez de ne pas pouvoir utiliser complètement les fonctions du site Web et des services.</p>
+
+				<h2>Publicité</h2>
+
+				<p>Nous pouvons afficher des publicités en ligne et nous pouvons partager et agrégées non identifiables concernant nos clients que nous recueillons par le biais de la procédure d inscription ou par le biais de sondages en ligne et les promotions avec certains annonceurs. Nous ne partageons pas les renseignements personnels sur des clients individuels avec les annonceurs. Dans certains cas, nous pouvons utiliser cette agrégées et des renseignements non identificatoires pour diffuser des publicités à l auditoire visé.</p>
+
+				<h2>Liens vers d autres sites web</h2>
+
+				<p>Notre site Web contient des liens vers d autres sites qui ne sont pas détenus ou contrôlés par nous. Veuillez noter que nous ne sommes pas responsables des pratiques de confidentialité de ces autres sites web ou à des tiers. Nous vous encourageons à être vigilant lorsque vous quittez notre site et à lire les déclarations de confidentialité de chaque site web qui peut recueillir des renseignements personnels.</p>
+
+				<h2>La sécurité de l information</h2>
+
+				<p>Nous sécurisons l information que vous fournissez sur des serveurs informatiques dans un environnement contrôlé et sécurisé, protégé de tout accès, utilisation ou divulgation non autorisés. Nous maintenons des garanties administratives, techniques et physiques pour protéger contre l accès non autorisé, l utilisation, la modification et la divulgation de renseignements personnels dans son contrôle et sa garde. Cependant, aucune transmission de données sur Internet ou réseau sans fil peut être garantie. Par conséquent, même si nous nous efforçons de protéger vos informations personnelles, vous reconnaissez que (i) il y a des limites de sécurité et de confidentialité de l Internet qui sont hors de notre contrôle ; (ii) la sécurité, l intégrité, et la confidentialité de toutes les informations et données échangées entre vous et notre site Web ne peuvent être garanties ; et (iii) aucune de ces informations et données peuvent être visualisées ou modifiées lors du transit par un tiers, malgré les meilleurs efforts.</p>
+
+				<h2>Violation des données</h2>
+
+				<p>Dans le cas où nous nous rendons compte que la sécurité du site Web a été compromis ou utilisateurs des renseignements personnels ont été divulgués à des tierces parties non liées à la suite de l activité externe, y compris, mais non limité à, des attaques de sécurité ou de fraude, nous nous réservons le droit de prendre les mesures appropriées de façon raisonnable, y compris, mais non limité à, enquêtes et rapports, ainsi qu'à la notification et la coopération avec les autorités chargées de l application. Dans le cas d une violation de données, nous ferons des efforts raisonnables pour aviser les personnes concernées si nous pensons qu il existe un risque raisonnable de préjudice pour l utilisateur à la suite de l infraction ou si l avis est autrement requis par la loi. Lorsque nous ne nous publierons un avis sur le site Web.</p>
+
+				<h2>Modifications et amendements</h2>
+
+				<p>Nous nous réservons le droit de modifier cette politique de confidentialité relative au site Web ou services à tout moment, à compter de la publication de la version mise à jour de cette politique de confidentialité sur le site Web. Lorsque nous ne nous changerons la date de mise à jour au bas de cette page. L utilisation continue du Site après de telles modifications constituera votre consentement à ces changements.</p>
+
+				<h2>L acceptation de cette politique</h2>
+
+				<p>Vous reconnaissez que vous avez lu cette politique et convenez tous ses termes et conditions. En utilisant le site Web ou de ses services, vous acceptez d être lié par cette politique. Si vous n acceptez pas de respecter les termes de cette politique, vous n êtes pas autorisé à utiliser ou à accéder au site et à ses services.</p>
+
+				<h2>Nous contacter</h2>
+
+				<p>Si vous avez des questions concernant cette politique, veuillez nous contacter.</p>
+
+				<p>Ce document a été mise à jour le 2019</p>
+		</div>
+	</div>
+	<!-- JavaScript/jQuery -->	
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>	
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/validator.min.js"></script>
+	<script type="text/javascript" src="js/form-scripts.js"></script>
+	<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>	
+	<script type="text/javascript" src="js/ion.sound.min.js"></script>	
+	<script type="text/javascript" src="js/slick.min.js"></script>	
+	<script type="text/javascript" src="js/jquery.countTo.js"></script>	
+	<script type="text/javascript" src="js/jquery.md5.js"></script>	
+	<script type="text/javascript" src="js/activity.js"></script>	
+    <script type="text/javascript" src="js/main.js"></script>
+	</body>
 </html>
